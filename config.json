@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpalidate",
+        "uuid": 2610090,
+        "checksum": "vjdjiv"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
